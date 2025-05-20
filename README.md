@@ -5,7 +5,7 @@ This is a project we had made for MUJ HackX 2.0 on the problem statement - "Brai
 We Made use of 3 Datasets we found on Kaggle , them being :
 
 1st Dataset - https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-mental-state 
-This is a dataset of EEG on different patients which we further used to predict the attention levels of the patients, resulting in a model with accuracy of 85%.
+This is a dataset of EEG on different patients which we further used to predict the attention levels of the patients, resulting in a.  model with accuracy of 85%.
 
 2nd Dataset - https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions
 This Dataset also contains signals of different EEG patterns of patients, for this model we achieved an accuracy of 99%.
